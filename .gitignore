@@ -1,0 +1,21 @@
+# Java Bytecode
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual Machine Crash Logs
+hs_err_pid*
+
+# Build and IDE directories
+bin/
+build/
+target/
+out/
+.idea/
+*.iml
+.settings/
+.project/
+.classpath
