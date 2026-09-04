@@ -1,5 +1,20 @@
 # Step_semester_3
 
+## Date: 04-09-2026
+**Today's Work:**
+- Completed Session 4 Homework Assignment (Category A - 5 Problems):
+  1. Ghost Order Validator (FoodOrder) with constructor field validation and duplicate delivery prevention.
+  2. Delivery Slot Booking (DeliverySlot) with constructor chaining via this(...) and peak-hour detection.
+  3. Canteen Trust-Score Ranking Engine (Canteen) with case-insensitive tie-breaking and manual sorting.
+  4. Exam-Week Surge Fee Calculator (SurgeFeeCalculator) with final class/field/method invariants and minimum surge floor.
+  5. Multi-Kitchen Reconciliation Engine (DeliveryAccount) with static block initialization, instanceof handling, and fault-tolerant parallel array batch processing.
+
+**Next Session Plan:**
+- Abstract classes, interfaces, and design patterns.
+**Issues Faced:**
+- Enforced strict fail-fast validation on parallel array length mismatches to ensure zero financial data corruption.
+---
+
 ## Date: 29-08-2026
 **Today's Work:**
 - Completed Session 3 OOP assignments: Library fine collection system, extensible employee hierarchy, parking allocation with reference and null safety, resolving instance/static boundary leaks in library membership, and Capstone HR + Parking composite system.
