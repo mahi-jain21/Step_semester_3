@@ -1,5 +1,20 @@
 # Step_semester_3
 
+## Date: 12-09-2026
+**Today's Work:**
+- Completed Session 5 Homework Assignment (Access Modifiers, Encapsulation & Immutability - 5 Problems):
+  1. Membership Field Reach Checker (AccessChecker) with modifier visibility rules and per-modifier aggregation.
+  2. Reference Desk Subclass Reach with cross-package protected reachability and title-cased context formatting.
+  3. Book Copy Circulation Guard (BookInventory) with private encapsulation and boundary-safe state transitions.
+  4. LibraryMember JavaBean with 3 chained constructors via this(...), write-once membershipId, and write-only security answer.
+  5. Immutable Loan Receipt & Nightly Circulation Ledger (LoanReceipt) with defensive array copying, wither pattern, static block initialization, instanceof dispatch, and fault-tolerant batch reconciliation.
+
+**Next Session Plan:**
+- Abstract classes, interfaces, and polymorphic design architectures.
+**Issues Faced:**
+- Ensured two-way defensive copying on array getters and constructors to guarantee true immutability.
+---
+
 ## Date: 04-09-2026
 **Today's Work:**
 - Completed Session 4 Homework Assignment (Category A - 5 Problems):
